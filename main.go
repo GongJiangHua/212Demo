@@ -13,7 +13,15 @@ func main() {
 	fmt.Println("zj到此一游")
 
 	fmt.Println("龚江华到此三游")
+<<<<<<< HEAD
 
 	fmt.Println("ZJ到此一游")
 
+=======
+	fmt.Println("pq到此一游")
+	fmt.Println("pq到此一游")
+	fmt.Println("龚江华到处四游")
+	fmt.Println("=========================")
+	fmt.Println("zj到此二游")
+>>>>>>> master
 }
