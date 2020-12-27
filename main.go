@@ -14,4 +14,6 @@ func main() {
 
 	fmt.Println("龚江华到此三游")
 
+	fmt.Println("ZJ到此一游")
+
 }
