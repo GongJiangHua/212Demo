@@ -21,7 +21,14 @@ func main() {
 	fmt.Println("pq到此一游")
 	fmt.Println("pq到此一游")
 	fmt.Println("龚江华到处四游")
+	fmt.Println("龚江华到处四游")
 	fmt.Println("=========================")
+	fmt.Println("=========================")
+<<<<<<< HEAD
 	fmt.Println("zj到此二游")
 >>>>>>> master
+=======
+	fmt.Println("gjh到此一游")
+
+>>>>>>> remotes/origin/pq
 }
